@@ -4,10 +4,9 @@
 The Framework consists of 3 logical code for calculator Addition, Substraction and Multiplication opertations in Java src directory. In test directory
 we have test file for each to validate the operations with different sets of test data.
 
-Tools -<br>
-Language - Java, Junit<br>
-Build Tool - Maven<br>
-IDE - Eclipse<br>
+
+<b>Tools -Java, Junit, Maven</b><br>
+
 
 
 
